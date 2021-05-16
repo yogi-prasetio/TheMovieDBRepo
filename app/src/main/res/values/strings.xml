@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tv_shows">TV SHOWS</string>
+    <string name="movies">MOVIES</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="poster">Poster</string>
+    <string name="release">Release</string>
+    <string name="rating">Rating</string>
+    <string name="duration">Duration</string>
+    <string name="made">by Yogi Prasetio</string>
+</resources>
